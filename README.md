@@ -12,7 +12,7 @@ A Python-based multithreaded TCP port scanner that scans a target host for open 
 - Simple command-line interface
 
 ## Technologies Used
-- Python 3
+- Python3
 - Socket Programming
 - Concurrent Futures (ThreadPoolExecutor)
 
@@ -26,7 +26,7 @@ cd Multithreaded-port-scanner
 ## Usage
 
 ```bash
-python port_scanner.py
+python3 port_scanner.py
 ```
 
 ## Sample Output
@@ -38,7 +38,7 @@ Example:
 ```text
 Enter your target ip: 192.168.1.1
 Enter the start port: 20
-Enter end port: 100
+Enter end port: 1000
 ```
 
 ## Skills Demonstrated
