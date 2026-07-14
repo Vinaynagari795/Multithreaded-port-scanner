@@ -12,7 +12,7 @@ A Python-based multithreaded TCP port scanner that scans a target host for open 
 - Simple command-line interface
 
 ## Technologies Used
-- Python3
+- Python 3
 - Socket Programming
 - Concurrent Futures (ThreadPoolExecutor)
 
