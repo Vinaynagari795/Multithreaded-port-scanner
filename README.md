@@ -65,5 +65,7 @@ This project was developed for educational purposes and authorized security test
 
 ## Author
 
+**Vinay Nagari**  
+CEH | OSCP | CPENT
 Vinay Nagari
 CEH | OSCP | CPENT
