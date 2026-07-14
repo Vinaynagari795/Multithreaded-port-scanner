@@ -29,6 +29,10 @@ cd Multithreaded-port-scanner
 python port_scanner.py
 ```
 
+## Sample Output
+
+![Port Scanner Output](screenshots/scan-result.png)
+
 Example:
 
 ```text
