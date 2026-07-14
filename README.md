@@ -53,9 +53,10 @@ Enter end port: 100
 
 ```text
 Multithreaded-port-scanner/
-│
 ├── port_scanner.py
-└── README.md
+├── README.md
+└── screenshots/
+    └── scan-result.png
 ```
 
 ## Disclaimer
